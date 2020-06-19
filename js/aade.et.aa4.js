@@ -23,6 +23,6 @@ aade.equivalenceTable = {
 	},
 	2048: {
 		'original': 'Galvin',
-		'adapted': '2048'
+		'adapted': 'Galvão'
 	}
 };
