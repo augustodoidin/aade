@@ -59,7 +59,7 @@ aade.equivalenceTable = {
 	},
 	3584: {
 		'original': 'Wocky',
-		'adapted': 'Osaque'
+		'adapted': 'Isaque'
 	},
 	3840: {
 		'original': 'Guy',
@@ -158,24 +158,24 @@ aade.equivalenceTable = {
 		'adapted': 'Dário'
 	},
 	9728: {
-		'original': 'Japanese',
-		'adapted': 'Japonês'
+		'original': 'Madayou',
+		'adapted': 'Madayou'
 	},
 	9984: {
-		'original': 'Japanese',
-		'adapted': 'Japonês'
+		'original': 'Madayou',
+		'adapted': 'Madayou'
 	},
 	10240: {
-		'original': 'Japanese',
-		'adapted': 'Japonês'
+		'original': 'Madayou',
+		'adapted': 'Madayou'
 	},
 	10496: {
-		'original': 'Japanese',
-		'adapted': 'Japonês'
+		'original': 'Madadayou',
+		'adapted': 'Madadayou'
 	},
 	10752: {
-		'original': 'Japanese',
-		'adapted': 'Japonês'
+		'original': 'Madayou',
+		'adapted': 'Madayou'
 	},
 	11008: {
 		'original': 'Bailiff',
